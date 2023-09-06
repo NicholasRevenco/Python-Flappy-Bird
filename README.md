@@ -1,5 +1,4 @@
 # Python-Flappy-Bird
-Name: Python Flappy Bird
 
 ## Last Updated:
 6 September 2023
